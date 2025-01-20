@@ -3,4 +3,8 @@ pandas
 scikit-learn
 seaborn
 datetime
+catboost
+scikit-learn
+dill
+xgboost
 -e .
