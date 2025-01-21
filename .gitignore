@@ -171,3 +171,5 @@ cython_debug/
 .pypirc
 
 mlproj_struc_env/
+.env
+.venv
